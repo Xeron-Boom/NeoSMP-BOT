@@ -50,7 +50,7 @@
     "enabled": true,
     "circle-walk": {
       "enabled": true,
-      "radius": 4000,
+      "radius": 4,
       "speed": 3000
     },
     "look-around": {
